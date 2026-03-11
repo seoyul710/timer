@@ -1,2 +1,2 @@
-# timer
-https://spdla9999.github.io/timer/
+# live demo
+https://seoyul710.github.io/timer/
